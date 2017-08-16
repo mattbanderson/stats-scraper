@@ -1,0 +1,15 @@
+{
+  "name": "stats-scraper",
+  "version": "1.0.0",
+  "description": "Scape sports statistics from the web.",
+  "main": "app.js",
+  "author": "Matt Anderson",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
